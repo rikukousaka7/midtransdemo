@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DemoTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98d74afd-7c55-49ad-b0d8-951e773aefef</testCaseGuid>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>2d7267b8-5be7-488a-9168-152f908d2a83</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Alfa'</defaultValue>
+      <description></description>
+      <id>0a680648-8bb0-4f52-9b4c-8ed5d6dfa13a</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Alfa@gmail.com'</defaultValue>
+      <description></description>
+      <id>c36343fc-f368-407e-8649-8c51f5980592</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'081234567890'</defaultValue>
+      <description></description>
+      <id>f1ca3529-fb59-4f7a-8674-f22ea88cbf81</id>
+      <masked>false</masked>
+      <name>Phonenumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta'</defaultValue>
+      <description></description>
+      <id>d9c01fd4-8f9c-435b-ad21-bba9269ab807</id>
+      <masked>false</masked>
+      <name>City</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jl.Kebon Sirih 1'</defaultValue>
+      <description></description>
+      <id>eecffa5f-b7b3-4faf-b16f-f2fd6ed4b4bc</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+   <variable>
+      <defaultValue>'11111'</defaultValue>
+      <description></description>
+      <id>44302a42-2268-4700-b4be-e356c35df25c</id>
+      <masked>false</masked>
+      <name>PostalCode</name>
+   </variable>
+</TestCaseEntity>
